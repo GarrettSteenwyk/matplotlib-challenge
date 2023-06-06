@@ -1,1 +1,2 @@
 # matplotlib-challenge
+The only major guides used here were for what arguments some of the functions could have passed through them. As for the part needing to use the for loop, I just took the long way around as I could not figure it out.
